@@ -1,0 +1,22 @@
+.card{
+    background-color: #ffd6c5;
+    padding: 10px;
+    min-height: 250px;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.card a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(147, 20, 220);
+    font-style: italic;
+    padding: 30px;
+}.card a:hover{
+    color: blue;
+    text-decoration: underline;
+}

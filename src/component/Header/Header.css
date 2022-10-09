@@ -1,0 +1,16 @@
+.header a{
+    text-decoration: none;
+    font-weight: 600;
+    margin: 10px 5px;
+    padding: 10px 25px;
+    border: 2px solid brown;
+}.header a:hover{
+    background-color: aquamarine;
+}
+.navTag{
+    background-color: lightcyan;
+    padding: 50px 0;
+}
+.active{
+    background-color: #a2ffe0;
+}

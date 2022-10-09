@@ -1,0 +1,12 @@
+.friendCards{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+.friendCard{
+    padding: 25px;
+    border: 2px solid orangered;
+}
+.mt_0{
+    margin-top: 0;
+}
